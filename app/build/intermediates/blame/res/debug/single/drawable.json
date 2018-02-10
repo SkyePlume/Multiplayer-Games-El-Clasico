@@ -1,0 +1,758 @@
+[
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\red.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\me.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\me.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottomcentre.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\bottomcentre.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_on_off.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\ic_action_on_off.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_discover.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\ic_action_discover.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_on_off.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\ic_action_on_off.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topcentre.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\topcentre.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\green.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rock.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\rock.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottomleft.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\bottomleft.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_on_off.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\ic_action_on_off.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stad.jpg",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\stad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\blue.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\middleleft.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\middleleft.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\details_view.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\details_view.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\section_header.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\section_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\football.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\football.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arsenal.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\arsenal.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topleft.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\topleft.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scissor.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\scissor.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arsenal.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\arsenal.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottomcentre.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\bottomcentre.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\football.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\football.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottomleft.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\bottomleft.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thfc.jpg",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\thfc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\middlecentre.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\middlecentre.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rock.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\rock.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paper.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\paper.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stad.jpg",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\stad.jpg"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topcentre.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\topcentre.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yellow.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\middlecentre.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\middlecentre.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topcentre.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\topcentre.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spurs.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\spurs.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scissor.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\scissor.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paper.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\paper.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yellow.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topright.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\topright.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\middleleft.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\middleleft.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spurs.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\spurs.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_discover.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\ic_action_discover.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\football.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\football.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\middleright.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\middleright.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thfc.jpg",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\thfc.jpg"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spurs.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\spurs.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paper.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\paper.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\red.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\blue.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stad.jpg",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\stad.jpg"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottomleft.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\bottomleft.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\middlecentre.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\middlecentre.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottomcentre.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\bottomcentre.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\middleright.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\middleright.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottomright.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\bottomright.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thfc.jpg",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\thfc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yellow.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\yellow.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topleft.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\topleft.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arsenal.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\arsenal.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\me.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\me.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\section_header.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\section_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottomright.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\bottomright.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\section_header.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\section_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottomright.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\bottomright.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\green.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\middleright.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\middleright.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\me.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\me.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scissor.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\scissor.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\red.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\green.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\details_view.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\details_view.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topright.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\topright.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue.png",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\src\\main\\res\\drawable\\blue.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\middleleft.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\middleleft.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_discover.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\ic_action_discover.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rock.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\src\\main\\res\\drawable\\rock.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\details_view.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\details_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topleft.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\topleft.png"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topright.png",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\src\\main\\res\\drawable\\topright.png"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\sp486\\Desktop\\El Classico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\University of Brighton Work\\Year 3\\SkyePlumeMultiplayerGames\\El Clasico\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    }
+]

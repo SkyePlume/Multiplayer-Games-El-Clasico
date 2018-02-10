@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_0f979cdb9d31c3f13f694cf72e66512ba20d881e.jar" />
+    </item>
+    <item
+        jar="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_1dc9611b6bd443a6991787fe7efaca3bca62c353.jar" />
+    </item>
+    <item
+        jar="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_a5c6d3977423f9ddac46f5643dccef4b6a259a14.jar" />
+    </item>
+    <item
+        jar="C:\Users\sp486\Desktop\El Classico\app\libs\gson-2.6.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\pre-dexed\debug\gson-2.6.2_8f3b96d0fb46883c3e0c5c4237de60c33df5b09d.jar" />
+    </item>
+    <item
+        jar="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_0b52112adfc8a1d51f7e5957c83d1e6472762188.jar" />
+    </item>
+    <item
+        jar="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_3c5ac437e30227d931bebe764b5a9d95c1b72eb2.jar" />
+    </item>
+    <item
+        jar="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_ded963398181c96c712d66d8f78a1374b75348b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_96d6409c2dbe9fe5c725853c676e9c7f1f2c6314.jar" />
+    </item>
+    <item
+        jar="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_74449c6d37437581ccd6a1e05221d2ecbccc56e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_42fd4d3f9fb6758f1c5421c660b0311c1f772b8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6c643d8a9c20249682bdce0dd9625cc2a5e384b7.jar" />
+    </item>
+    <item
+        jar="C:\CEM\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_6bc94e33bf8a665a3ee044dde1ad70c6317ae692.jar" />
+    </item>
+    <item
+        jar="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_7392a894b995748b51e8c966b294dd8853ba23b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_89ab5cac37222719f1e0b779c259f1e9121ecf1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a81ff7e745423343502db5edd02815042546218f.jar" />
+    </item>
+    <item
+        jar="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\sp486\Desktop\El Classico\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_12857b14e0e40f15b7c25f2cfdccde280cf1e3ef.jar" />
+    </item>
+
+</items>

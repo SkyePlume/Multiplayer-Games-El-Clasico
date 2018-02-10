@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.allsop.gerard.network_p_2_p"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="19" />
+
+    <uses-permission
+        android:name="android.permission.ACCESS_WIFI_STATE"
+        android:required="true" />
+    <uses-permission
+        android:name="android.permission.CHANGE_WIFI_STATE"
+        android:required="true" />
+    <uses-permission
+        android:name="android.permission.INTERNET"
+        android:required="true" />
+    <uses-permission
+        android:name="android.permission.CHANGE_NETWORK_STATE"
+        android:required="true" />
+    <uses-permission
+        android:name="android.permission.ACCESS_NETWORK_STATE"
+        android:required="true" />
+    <uses-permission
+        android:name="android.permission.READ_PHONE_STATE"
+        android:required="true" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@android:style/Theme.Holo" >
+        <activity android:name="com.allsop.gerard.network_p_2_p.WifiDirectActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="com.allsop.gerard.network_p_2_p.DataSocketManager"
+            android:enabled="true" />
+        <service
+            android:name="com.allsop.gerard.network_p_2_p.SocketServerService"
+            android:enabled="true" />
+    </application>
+
+</manifest>

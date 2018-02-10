@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">El Classico</string>
+    <string name="action_settings">Settings</string>
+    <string name="enable_p2p_button">P2P On/Off</string>
+    <string name="discover_peers_button">Find Opponent</string>
+    <string name="disconnect_peer_button">Disconnect</string>
+    <string name="client_message_button">Client Message</string>
+    <string name="server_message_button">Server Message</string>
+    <string name="label_me">Competitor</string>
+    <string name="label_peers">Rivals</string>
+    <string name="empty"></string>
+    <string name="group_owner_text"></string>
+    <string name= "no"></string>
+    <string name="yes"></string>
+    <string name="client_text"></string>
+    <string name="welcome_message">Welcome to El Classico. Compete in a game of NOUGHTs and CROSSES on the football pitch.</string>
+    <string name="empty_message">No Rivals were found. Maybe check again!</string>
+</resources>
